@@ -1,0 +1,74 @@
+1) Theatre Square
+   https://codeforces.com/contest/1/problem/A
+   
+2) System of Equations
+   https://codeforces.com/contest/214/problem/A
+   
+3) Life Without Zeros
+   https://codeforces.com/contest/75/problem/A?fbclid=IwAR0MHnMSOyci2rQpputlm3BbOVar55_Upk59Q52-I7aYl3_XtXQ5WniZH_Y
+   
+4) Sereja and Dima
+   https://codeforces.com/contest/381/problem/A
+   
+5) Devu, the Dumb Guy
+   https://codeforces.com/contest/439/problem/B
+   
+6) Night at the Museum
+   https://codeforces.com/contest/731/problem/A
+   
+7) Vitaly and Strings
+   https://codeforces.com/contest/518/problem/A
+   
+8) George and Round
+   https://codeforces.com/contest/387/problem/B
+   
+9) Books
+   https://codeforces.com/contest/279/problem/B
+   
+10) Dress'em in Vests!
+    https://codeforces.com/contest/161/problem/A
+    
+11) Sort the Array
+    https://codeforces.com/contest/451/problem/B
+
+12) Approximating a Constant Range
+   https://codeforces.com/contest/602/problem/B
+
+13) Fashion in Berland
+   https://codeforces.com/contest/691/problem/A
+
+14) Mini-Max Sum
+   https://www.hackerrank.com/challenges/mini-max-sum/problem
+   
+15) New Year Chaos
+   https://www.hackerrank.com/challenges/new-year-chaos/problem
+   
+16) Recursion 3
+   https://www.hackerrank.com/challenges/30-recursion/problem
+   
+17) Cho một số n nguyên dương bất kì, xác định số đó có phải là số nguyên tố hay không
+
+18) Cho một dãy gồm các số nguyên số duơng, tìm số nguyên tố lớn nhất trong dãy
+
+19) Cho một số n bất kì, tìm số nguyên tố n1 gần n nhất và nhỏ hơn n, tìm số nguyên tố n2 gần n nhất và lớn hơn n
+
+20) Queue using Two Stacks
+    https://www.hackerrank.com/challenges/queue-using-two-stacks/problem
+    
+21) STPAR - Street Parade
+    https://www.spoj.com/problems/STPAR/
+    
+22) String to Integer (atoi)
+    https://leetcode.com/problems/string-to-integer-atoi/
+    
+23) Longest Palindromic Substring
+    https://leetcode.com/problems/longest-palindromic-substring/
+    
+24) Longest Substring Without Repeating Characters
+    https://leetcode.com/problems/longest-substring-without-repeating-characters/
+    
+25) Add Two Numbers
+    https://leetcode.com/problems/add-two-numbers/
+    
+26) Remove Duplicates from Sorted Array
+    https://leetcode.com/problems/remove-duplicates-from-sorted-array/
