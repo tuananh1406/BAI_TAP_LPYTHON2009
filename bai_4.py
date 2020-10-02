@@ -1,14 +1,21 @@
 # coding: utf-8
 
 
+def lay_so_lon_nhat(ds):
+    if ds[0] > ds[-1] or len(ds) <= 1:
+        return 0
+    if ds[-1] > ds[0]:
+        return -1
+
 def game_scores(n, ds_the_bai):
-    ds_the_bai.sort()
     a = []
     b = []
     while True:
         try:
-            a.append(ds_the_bai.pop())
-            b.append(ds_the_bai.pop())
+            the_lon_nhat = lay_so_lon_nhat(ds_the_bai)
+            a.append(ds_the_bai.pop(the_lon_nhat))
+            the_lon_nhat = lay_so_lon_nhat(ds_the_bai)
+            b.append(ds_the_bai.pop(the_lon_nhat))
         except:
             break
     kq_a = sum(a)
